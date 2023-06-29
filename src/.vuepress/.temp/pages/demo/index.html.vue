@@ -12,6 +12,9 @@
 <li>
 <p><RouterLink to="/demo/encrypt.html">加密展示</RouterLink></p>
 </li>
+<li>
+<p><RouterLink to="/demo/oadev.html">OA二次开发</RouterLink></p>
+</li>
 </ul>
 </div></template>
 

@@ -11,6 +11,8 @@ export const pagesComponents = {
   "v-c151bf32": defineAsyncComponent(() => import(/* webpackChunkName: "v-c151bf32" */"D:/JavaWeb/vuepress/src/.vuepress/.temp/pages/demo/encrypt.html.vue")),
   // path: /demo/markdown.html
   "v-438ffe52": defineAsyncComponent(() => import(/* webpackChunkName: "v-438ffe52" */"D:/JavaWeb/vuepress/src/.vuepress/.temp/pages/demo/markdown.html.vue")),
+  // path: /demo/oadev.html
+  "v-be45dd6e": defineAsyncComponent(() => import(/* webpackChunkName: "v-be45dd6e" */"D:/JavaWeb/vuepress/src/.vuepress/.temp/pages/demo/oadev.html.vue")),
   // path: /demo/page.html
   "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"D:/JavaWeb/vuepress/src/.vuepress/.temp/pages/demo/page.html.vue")),
   // path: /demo/
