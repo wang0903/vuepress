@@ -4,11 +4,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://wangbinggui.netlify.app/",
 
   author: {
     name: "王炳贵",
-    url: "https://mrhope.site",
+    url: "https://wangbinggui.netlify.app",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -32,6 +32,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
+      "/demo/oadev.html": ["62352744aa??aa"]
     },
   },
 
@@ -84,6 +85,7 @@ export default hopeTheme({
           },
         },
       ],
+
       sub: true,
       sup: true,
       tabs: true,

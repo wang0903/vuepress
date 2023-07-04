@@ -3,7 +3,7 @@
 <h2 id="详情" tabindex="-1"><a class="header-anchor" href="#详情" aria-hidden="true">#</a> 详情</h2>
 <ul>
 <li><RouterLink to="/guide/bar/baz.html">baz</RouterLink></li>
-<li>...</li>
+<li><RouterLink to="/guide/bar/DevOps.html">DevOps</RouterLink></li>
 </ul>
 </div></template>
 

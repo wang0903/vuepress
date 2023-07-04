@@ -1,6 +1,9 @@
 // @ts-ignore
 import { navbar } from "vuepress-theme-hope";
 
+// @ts-ignore
+// @ts-ignore
+// @ts-ignore
 export default navbar([
   "/",
   "/demo/",
@@ -10,14 +13,14 @@ export default navbar([
     prefix: "/guide/",
     children: [
       {
-        text: "Bar",
-        //icon: "lightbulb",
+        text: "自动化部署",
+        icon: "note",
         prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        children: ["DevOps", { text: "", icon: "", link: "" },{ text: "", icon: "", link: "" }],
       },
       {
         text: "Foo",
-        //icon: "lightbulb",
+        //icon: "light bulb",
         prefix: "foo/",
         children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
       },
